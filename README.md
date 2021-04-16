@@ -1,7 +1,7 @@
 
 # Hi there 👋
 
-<img title="Halloween background in flat design Free Vector" src="https://image.freepik.com/free-vector/halloween-background-flat-design_52683-43845.jpg" />
+<!--img title="Halloween background in flat design Free Vector" src="https://image.freepik.com/free-vector/halloween-background-flat-design_52683-43845.jpg" /-->
 
 Welcome to my GitHub profile! Feel free to check out my [repositories](https://github.com/MarkCay?tab=repositories).
 
