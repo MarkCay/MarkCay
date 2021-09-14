@@ -12,8 +12,8 @@ You can visit my social media accounts in the following links:
 
 
 
-<a style="display: none" title="Mark Cay's Most Used Languages" href="#https://github.com/MarkCay?tab=repositories"><img align="center" style="width: 100vw" src='#https://github-readme-stats.vercel.app/api/top-langs/?username=markcay&theme=light&bg_color=201E1E&text_color=ffffff&title_color=ffffff' /></a>
-<a style="display: none" title="Mark Cay's GitHub Stats" href="#https://github.com/MarkCay?tab=repositories"><img align="center" style="width: 100vw" src='#https://github-readme-stats.vercel.app/api?username=markcay&&show_icons=true&title_color=ffffff&icon_color=6920b0&text_color=daf7dc&bg_color=201E1E&include_all_commits=true' /></a>
+<a style="" title="Mark Cay's Most Used Languages" href="https://github.com/MarkCay?tab=repositories"><img align="center" style="width: 100vw" src='https://github-readme-stats.vercel.app/api/top-langs/?username=markcay&theme=light&bg_color=201E1E&text_color=ffffff&title_color=ffffff' /></a>
+<a style="" title="Mark Cay's GitHub Stats" href="https://github.com/MarkCay?tab=repositories"><img align="center" style="width: 100vw" src='https://github-readme-stats.vercel.app/api?username=markcay&&show_icons=true&title_color=ffffff&icon_color=6920b0&text_color=daf7dc&bg_color=201E1E&include_all_commits=true' /></a>
 
 <!-- 🔭 I’m currently working at [Zerobstacle Technologies](https://zerobstacle.dev/)
 <!--- 🌱 I love topicsin web development-->
