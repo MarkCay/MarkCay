@@ -36,7 +36,7 @@ CLOUD DATABASES, APIS, AND SERVICES
 #### [<img title="My Facebook profile" alt="My Facebook profile" height=15 width=15 src="https://static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.ico" /> Facebook: @gabrielle.cay](https://www.facebook.com/Gabrielle.Cay)
 #### [<img title="My YouTube channel" alt="My YouTube channel" height=15 width=15 src="https://www.youtube.com/s/desktop/a90036ea/img/favicon.ico" /> YouTube: @markcay](https://www.youtube.com/MarkCay)
 #### [<img title="My LinkedIn profile" height=15 width=15 src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" /> LinkedIn: @mark-gabrielle-cay-mobile-app-web-developer-870773131](https://www.linkedin.com/in/mark-gabrielle-cay-mobile-app-web-developer-870773131/)
-
+#### [<img title="My Telegram account" height=15 width=15 src="https://web.telegram.org/k/assets/img/apple-touch-icon.png?v=jw3mK7G9Ry" /> Telegram: @markcay](https://t.me/markcay)
 
 
 <!-- <a style="" title="Mark Cay's Most Used Languages" href="https://github.com/MarkCay?tab=repositories">
