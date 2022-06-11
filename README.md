@@ -32,7 +32,7 @@ CLOUD DATABASES, APIS, AND SERVICES
 - Firebase services
 - MongoDB
 
-# CONTACT
+# SOCIAL MEDIA LINKS
 #### [<img title="My Facebook profile" alt="My Facebook profile" height=15 width=15 src="https://static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.ico" /> Facebook: @gabrielle.cay](https://www.facebook.com/Gabrielle.Cay)
 #### [<img title="My YouTube channel" alt="My YouTube channel" height=15 width=15 src="https://www.youtube.com/s/desktop/a90036ea/img/favicon.ico" /> YouTube: @markcay](https://www.youtube.com/MarkCay)
 #### [<img title="My LinkedIn profile" height=15 width=15 src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" /> LinkedIn: @markcay](https://www.linkedin.com/in/markcay)
