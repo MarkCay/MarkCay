@@ -5,7 +5,7 @@ He develops mobile-friendly cross-platform apps and responsive web systems, and 
 
 Mark Cay helps clients grow and promote their businesses online by providing them mobile apps and web systems solutions based on their needs.
 
-Mark Cay utilizes these powerful and popular technology tools for development:
+He utilizes these powerful and popular technology tools for development:
 
 WEB
 - HTML
@@ -31,6 +31,15 @@ CLOUD DATABASES, APIS, AND SERVICES
 - Google Cloud Platform
 - Firebase services
 - MongoDB
+- GraphQL
+- REST API
+
+DESIGN TOOLS AND FRAMEWORKS
+- Tailwind CSS
+- Bootstrap
+- Figma
+- Canva
+- Adobe XD
 
 # SOCIAL MEDIA LINKS
 #### [<img title="My Facebook profile" alt="My Facebook profile" height=15 width=15 src="https://static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.ico" /> Facebook: @gabrielle.cay](https://www.facebook.com/Gabrielle.Cay)
