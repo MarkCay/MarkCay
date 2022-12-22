@@ -26,11 +26,11 @@ It is my pleasure to help clients grow and promote their businesses online by pr
 
 ### MOBILE APP & CROSS PLATFORM (Web / Android / iOS)
 
-![](https://img.shields.io/badge/-Android-32DE84)
-![](https://img.shields.io/badge/-Kotlin-E24462)
-![](https://img.shields.io/badge/-React_Native-61DBFB)
-![](https://img.shields.io/badge/-Ionic-498AFF)
-![](https://img.shields.io/badge/-Angular-dd1b16)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
 ### CLOUD DATABASES, APIS, AND SERVICES
 
