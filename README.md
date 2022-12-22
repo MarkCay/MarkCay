@@ -19,10 +19,10 @@ It is my pleasure to help clients grow and promote their businesses online by pr
 
 ### WEB FRAMEWORKS
 
-![](https://img.shields.io/badge/-CodeIgniter-dd4814)
-![](https://img.shields.io/badge/-React.js-61DBFB)
-![](https://img.shields.io/badge/-Vue.js-34495E)
-![](https://img.shields.io/badge/-Angular.js-dd1b16)
+![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
 
 ### MOBILE APP & CROSS PLATFORM (Web / Android / iOS)
 
