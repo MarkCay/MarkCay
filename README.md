@@ -39,11 +39,11 @@ CLOUD DATABASES, APIS, AND SERVICES
 
 DESIGN TOOLS AND FRAMEWORKS
 
-![](https://img.shields.io/badge/Design_Tools_and_Frameworks-Tailwind_CSS-ff0000)
-![](https://img.shields.io/badge/Design_Tools_and_Frameworks-Bootstrap-ff0000)
-![](https://img.shields.io/badge/Design_Tools_and_Frameworks-Figma-ff0000)
-![](https://img.shields.io/badge/Design_Tools_and_Frameworks-Canva-ff0000)
-![](https://img.shields.io/badge/Design_Tools_and_Frameworks-Adobe_XD-ff0000)
+![](https://img.shields.io/badge/Design_Tools_and_Frameworks-Tailwind_CSS-38BDF8)
+![](https://img.shields.io/badge/Design_Tools_and_Frameworks-Bootstrap-563d7c)
+![](https://img.shields.io/badge/Design_Tools_and_Frameworks-Figma-ff3b00)
+![](https://img.shields.io/badge/Design_Tools_and_Frameworks-Canva-20c4cb)
+![](https://img.shields.io/badge/Design_Tools_and_Frameworks-Adobe_XD-430134)
 
 # SOCIAL MEDIA LINKS
 #### [<img title="My Facebook profile" alt="My Facebook profile" height=15 width=15 src="https://static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.ico" /> Facebook: @gabrielle.cay](https://www.facebook.com/Gabrielle.Cay)
