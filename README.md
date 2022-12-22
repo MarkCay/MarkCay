@@ -1,5 +1,5 @@
 # ABOUT
-Mark Cay is a Mobile App/Web Developer at Zerobstacle Technologies with 2+ years of experience in the field, based in Palawan, Philippines.
+Mark Cay is a Freelance Mobile App/Web Developer from Palawan, Philippines with 2+ years of experience in the field.
 
 He develops mobile-friendly cross-platform apps and responsive web systems, and is experienced in ride-hailing services, delivery and booking systems, and other transport-related/booking-related app services.
 
