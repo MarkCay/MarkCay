@@ -5,7 +5,9 @@ I develop mobile-friendly cross-platform apps and responsive web systems, and is
 
 It is my pleasure to help clients grow and promote their businesses online by providing them mobile apps and web systems solutions based on their needs.
 
-I use these powerful and popular technology tools for my development:
+
+
+## I use these powerful and popular technology tools for my development:
 
 ### WEB
 
@@ -45,23 +47,19 @@ I use these powerful and popular technology tools for my development:
 ![](https://img.shields.io/badge/-Canva-20c4cb)
 ![](https://img.shields.io/badge/-Adobe_XD-430134)
 
-
------
-
-# SOCIAL MEDIA LINKS
-
-Let's connect!
-
-<a target="_blank" href="https://facebook.com/Gabrielle.Cay" target="_blank">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
-<a target="_blank" href="https://youtube.com/MarkCayCay" target="_blank">![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a>
-<a target="_blank" href="https://linkedin.com/in/markcay" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a target="_blank" href="https://t.me/markcay" target="_blank">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
+---
+  
+<p align="center">
+    <img src='https://github-readme-stats.vercel.app/api?username=markcay&&show_icons=true&title_color=ffffff&icon_color=DD762D&text_color=EA5D63&bg_color=1D1E3C&include_all_commits=true&count_private=true' />
+</p>
 
 
-<!-- <a style="" title="Mark Cay's Most Used Languages" href="https://github.com/MarkCay?tab=repositories">
-  <img align="center" style="width: 100vw;" src='https://github-readme-stats.vercel.app/api/top-langs/?username=markcay&theme=light&bg_color=201E1E&text_color=ffffff&title_color=ffffff' />
-</a> -->
-<!-- <a style="" title="Mark Cay's GitHub Stats" href="https://github.com/MarkCay?tab=repositories">
-  <img align="center" style="width: 100vw" src='https://github-readme-stats.vercel.app/api?username=markcay&&show_icons=true&title_color=ffffff&icon_color=6920b0&text_color=daf7dc&bg_color=201E1E&include_all_commits=true' />
-</a> -->
- 
+---
+
+### Let's connect!
+
+<a href="https://facebook.com/Gabrielle.Cay" target="_blank">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
+<a href="https://youtube.com/MarkCayCay" target="_blank">![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a>
+<a href="https://linkedin.com/in/markcay" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://t.me/markcay" target="_blank">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
+
