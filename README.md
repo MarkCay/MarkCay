@@ -24,11 +24,11 @@ WEB FRAMEWORKS
 
 MOBILE APP & CROSS PLATFORM (Web / Android / iOS)
 
-![](https://img.shields.io/badge/Mobile_App_&_Cross_Platform-Android-ff0000)
-![](https://img.shields.io/badge/Mobile_App_&_Cross_Platform-Kotlin-ff0000)
-![](https://img.shields.io/badge/Mobile_App_&_Cross_Platform-React_Native-ff0000)
-![](https://img.shields.io/badge/Mobile_App_&_Cross_Platform-Ionic-ff0000)
-![](https://img.shields.io/badge/Mobile_App_&_Cross_Platform-Angular-ff0000)
+![](https://img.shields.io/badge/Mobile_App_&_Cross_Platform-Android-32DE84)
+![](https://img.shields.io/badge/Mobile_App_&_Cross_Platform-Kotlin-E24462)
+![](https://img.shields.io/badge/Mobile_App_&_Cross_Platform-React_Native-61DBFB)
+![](https://img.shields.io/badge/Mobile_App_&_Cross_Platform-Ionic-498AFF)
+![](https://img.shields.io/badge/Mobile_App_&_Cross_Platform-Angular-dd1b16)
 
 CLOUD DATABASES, APIS, AND SERVICES
 
