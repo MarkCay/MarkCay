@@ -17,10 +17,10 @@ WEB
 
 WEB FRAMEWORKS
 
-![](https://img.shields.io/badge/Web_Frameworks-CodeIgniter-ff0000)
-![](https://img.shields.io/badge/Web_Frameworks-React.js-ff0000)
-![](https://img.shields.io/badge/Web_Frameworks-Vue.js-ff0000)
-![](https://img.shields.io/badge/Web_Frameworks-Angular.js-ff0000)
+![](https://img.shields.io/badge/Web_Frameworks-CodeIgniter-dd4814)
+![](https://img.shields.io/badge/Web_Frameworks-React.js-61DBFB)
+![](https://img.shields.io/badge/Web_Frameworks-Vue.js-34495E)
+![](https://img.shields.io/badge/Web_Frameworks-Angular.js-dd1b16)
 
 MOBILE APP & CROSS PLATFORM (Web / Android / iOS)
 
