@@ -32,11 +32,10 @@ MOBILE APP & CROSS PLATFORM (Web / Android / iOS)
 
 CLOUD DATABASES, APIS, AND SERVICES
 
-![](https://img.shields.io/badge/Cloud_Databases,_APIs,_and_Services-Google_Cloud_Platform-ff0000)
-![](https://img.shields.io/badge/Cloud_Databases,_APIs,_and_Services-Firebase_services-ff0000)
-![](https://img.shields.io/badge/Cloud_Databases,_APIs,_and_Services-MongoDB-ff0000)
-![](https://img.shields.io/badge/Cloud_Databases,_APIs,_and_Services-GraphQL-ff0000)
-![](https://img.shields.io/badge/Cloud_Databases,_APIs,_and_Services-REST_API-ff0000)
+![](https://img.shields.io/badge/Cloud_Databases,_APIs,_and_Services-Google_Cloud_Platform-4285F4)
+![](https://img.shields.io/badge/Cloud_Databases,_APIs,_and_Services-Firebase_services-FFA611)
+![](https://img.shields.io/badge/Cloud_Databases,_APIs,_and_Services-MongoDB-589636)
+![](https://img.shields.io/badge/Cloud_Databases,_APIs,_and_Services-GraphQL-e535ab)
 
 DESIGN TOOLS AND FRAMEWORKS
 
