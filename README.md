@@ -9,11 +9,11 @@ He utilizes these powerful and popular technology tools for development:
 
 WEB
 
-![](https://img.shields.io/badge/Web-HTML-ff0000)
-![](https://img.shields.io/badge/Web-CSS-ff0000)
-![](https://img.shields.io/badge/Web-JavaScript-ff0000)
-![](https://img.shields.io/badge/Web-PHP-ff0000)
-![](https://img.shields.io/badge/Web-MySQL-ff0000)
+![](https://img.shields.io/badge/Web-HTML-e34c26)
+![](https://img.shields.io/badge/Web-CSS-264de4)
+![](https://img.shields.io/badge/Web-JavaScript-f0db4f)
+![](https://img.shields.io/badge/Web-PHP-8993be)
+![](https://img.shields.io/badge/Web-MySQL-00758f)
 
 WEB FRAMEWORKS
 
