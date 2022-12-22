@@ -8,38 +8,43 @@ Mark Cay helps clients grow and promote their businesses online by providing the
 He utilizes these powerful and popular technology tools for development:
 
 WEB
-- HTML
-- CSS
-- JavaScript
-- PHP
-- MySQL
+
+![](https://img.shields.io/badge/Web-HTML-ff0000)
+![](https://img.shields.io/badge/Web-CSS-ff0000)
+![](https://img.shields.io/badge/Web-JavaScript-ff0000)
+![](https://img.shields.io/badge/Web-PHP-ff0000)
+![](https://img.shields.io/badge/Web-MySQL-ff0000)
 
 WEB FRAMEWORKS
-- CodeIgniter
-- React.js
-- Vue.js
-- Angular.js
+
+![](https://img.shields.io/badge/Web_Frameworks-CodeIgniter-ff0000)
+![](https://img.shields.io/badge/Web_Frameworks-React.js-ff0000)
+![](https://img.shields.io/badge/Web_Frameworks-Vue.js-ff0000)
+![](https://img.shields.io/badge/Web_Frameworks-Angular.js-ff0000)
 
 MOBILE APP & CROSS PLATFORM (Web / Android / iOS)
-- Android
-- Kotlin
-- React Native
-- Ionic
-- Angular
+
+![](https://img.shields.io/badge/Mobile_App_&_Cross_Platform-Android-ff0000)
+![](https://img.shields.io/badge/Mobile_App_&_Cross_Platform-Kotlin-ff0000)
+![](https://img.shields.io/badge/Mobile_App_&_Cross_Platform-React_Native-ff0000)
+![](https://img.shields.io/badge/Mobile_App_&_Cross_Platform-Ionic-ff0000)
+![](https://img.shields.io/badge/Mobile_App_&_Cross_Platform-Angular-ff0000)
 
 CLOUD DATABASES, APIS, AND SERVICES
-- Google Cloud Platform
-- Firebase services
-- MongoDB
-- GraphQL
-- REST API
+
+![](https://img.shields.io/badge/Cloud_Databases,_APIs,_and_Services-Google_Cloud_Platform-ff0000)
+![](https://img.shields.io/badge/Cloud_Databases,_APIs,_and_Services-Firebase_services-ff0000)
+![](https://img.shields.io/badge/Cloud_Databases,_APIs,_and_Services-MongoDB-ff0000)
+![](https://img.shields.io/badge/Cloud_Databases,_APIs,_and_Services-GraphQL-ff0000)
+![](https://img.shields.io/badge/Cloud_Databases,_APIs,_and_Services-REST_API-ff0000)
 
 DESIGN TOOLS AND FRAMEWORKS
-- Tailwind CSS
-- Bootstrap
-- Figma
-- Canva
-- Adobe XD
+
+![](https://img.shields.io/badge/Design_Tools_and_Frameworks-Tailwind_CSS-ff0000)
+![](https://img.shields.io/badge/Design_Tools_and_Frameworks-Bootstrap-ff0000)
+![](https://img.shields.io/badge/Design_Tools_and_Frameworks-Figma-ff0000)
+![](https://img.shields.io/badge/Design_Tools_and_Frameworks-Canva-ff0000)
+![](https://img.shields.io/badge/Design_Tools_and_Frameworks-Adobe_XD-ff0000)
 
 # SOCIAL MEDIA LINKS
 #### [<img title="My Facebook profile" alt="My Facebook profile" height=15 width=15 src="https://static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.ico" /> Facebook: @gabrielle.cay](https://www.facebook.com/Gabrielle.Cay)
