@@ -34,10 +34,10 @@ It is my pleasure to help clients grow and promote their businesses online by pr
 
 ### CLOUD DATABASES, APIS, AND SERVICES
 
-![](https://img.shields.io/badge/-Google_Cloud_Platform-4285F4)
-![](https://img.shields.io/badge/-Firebase_services-FFA611)
-![](https://img.shields.io/badge/-MongoDB-589636)
-![](https://img.shields.io/badge/-GraphQL-e535ab)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-white?style=for-the-badge&logo=Firebase&logoColor=FFA611)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ### DESIGN TOOLS AND FRAMEWORKS
 
