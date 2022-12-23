@@ -1,14 +1,32 @@
-# Hey, Vsauce! Mark Cay here...
-Hi! I'm a Freelance Mobile App/Web Developer from Palawan, Philippines with 2+ years of experience in the field.
+# Hey, Vsauce! Mark Cay here... 🧐 
 
-I develop mobile-friendly cross-platform apps and responsive web systems, and is experienced in ride-hailing services, delivery and booking systems, and other transport-related/booking-related app services.
+<img align="right" src="https://yt3.ggpht.com/ytc/AMLnZu8QeR_gsP0RzdCIQyQlQTe58PlD4UKzOpIVd2QC6g=s900-c-k-c0x00ffffff-no-rj" width="120" />
+
+Hi! I'm a Freelance Mobile App/Web Developer from Palawan, Philippines with 2+ years of experience in the field.
 
 It is my pleasure to help clients grow and promote their businesses online by providing them mobile apps and web systems solutions based on their needs.
 
+<br /><br />
+
+
+<p align="center">
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLSeS1cf9mU02uROnvBGuXm3yGBrZAO5B1TgCIE_-Esk2T8OlAg/viewform">
+    <img height="40" src="https://img.shields.io/badge/HIRE_ME_FOR_A_PROJECT-EA5D63.svg?style=for-the-badge&logo=dependabot&logoColor=white" />
+  </a>
+</p>
+
+
+<p align="center">
+  <a href="https://markcay.dev/">
+    <img height="40" src="https://img.shields.io/badge/VISIT_MY_PORTFOLIO-F2802A.svg?style=for-the-badge&logo=hotjar&logoColor=white" />
+  </a>
+</p>
+
+<br /><br />
 
 
 ## I use these powerful and popular technology tools for my development:
-
+<br /><br />
 ### WEB
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -16,14 +34,14 @@ It is my pleasure to help clients grow and promote their businesses online by pr
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
+<br /><br />
 ### WEB FRAMEWORKS
 
 ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
-
+<br /><br />
 ### MOBILE APP & CROSS PLATFORM (Web / Android / iOS)
 
 ![Android](https://img.shields.io/badge/Android-white?style=for-the-badge&logo=android&logoColor=3DDC84)
@@ -32,14 +50,14 @@ It is my pleasure to help clients grow and promote their businesses online by pr
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-
+<br /><br />
 ### CLOUD DATABASES, APIS, AND SERVICES
 
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-white?style=for-the-badge&logo=Firebase&logoColor=FFA611)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
+<br /><br />
 ### DESIGN TOOLS AND FRAMEWORKS
 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -47,7 +65,7 @@ It is my pleasure to help clients grow and promote their businesses online by pr
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-
+<br /><br />
 ### HOSTING AND DEPLOYMENT TOOLS
 
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -55,7 +73,7 @@ It is my pleasure to help clients grow and promote their businesses online by pr
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase_Hosting-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
+<br /><br />
 ### OTHER TECHNOLOGIES AND TOOLS
 
 ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)
@@ -71,14 +89,15 @@ It is my pleasure to help clients grow and promote their businesses online by pr
 ![Socket.io](https://img.shields.io/badge/Socket.io-white?style=for-the-badge&logo=socket.io&logoColor=010101)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
----
+<!-- ---
   
 <p align="center">
     <img src='https://github-readme-stats.vercel.app/api?username=markcay&&show_icons=true&title_color=ffffff&icon_color=DD762D&text_color=EA5D63&bg_color=1D1E3C&include_all_commits=true&count_private=true' />
 </p>
 
 
----
+--- -->
+<hr />
 
 ### Let's connect!
 
