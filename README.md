@@ -95,6 +95,9 @@ It is my pleasure to help clients grow and promote their businesses online by pr
     <img src='https://github-readme-stats.vercel.app/api?username=markcay&&show_icons=true&title_color=ffffff&icon_color=DD762D&text_color=EA5D63&bg_color=1D1E3C&include_all_commits=true&count_private=true' />
 </p>
 
+<p align="center">
+    <img src='https://streak-stats.demolab.com/?user=markcay' />
+</p>
 
 ---
 
