@@ -117,3 +117,7 @@ It is my pleasure to help clients grow and promote their businesses online by pr
 
 </p>
 
+### My Recent Medium Posts
+
+<a href="https://github-readme-medium-recent-article.vercel.app/medium/@fullystuckdev/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@fullystuckdev/0" /></a>
+
