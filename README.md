@@ -23,7 +23,7 @@ It is my pleasure to help clients grow and promote their businesses online by pr
 </p>
 
 <p align="center">
-  <a href="2023 GOALS.md">
+  <a href="2023-GOALS.md">
     <img height="auto" width="100%" src="https://img.shields.io/badge/Check out my 2023 Goals-3461FF.svg?style=for-the-badge&logo=googlefit&logoColor=white" />
   </a>
 </p>
