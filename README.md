@@ -1,5 +1,13 @@
 # Hey, Vsauce! Mark Cay here... 🧐 
 
+<p align="center">
+  <a href="https://markcay.github.io/2023-GOALS">
+    <img height="50" src="https://img.shields.io/badge/Check out my 2023 Goals-3461FF.svg?style=for-the-badge&logo=googlefit&logoColor=white" />
+  </a>
+</p>
+
+---
+
 <img align="right" src="https://yt3.ggpht.com/ytc/AMLnZu8QeR_gsP0RzdCIQyQlQTe58PlD4UKzOpIVd2QC6g=s900-c-k-c0x00ffffff-no-rj" width="120" />
 
 Hi! I'm a Freelance Mobile App/Web Developer from Palawan, Philippines with 2+ years of experience in the field.
@@ -8,23 +16,15 @@ It is my pleasure to help clients grow and promote their businesses online by pr
 
 <br /><br />
 
+<p align="center">
+  <a href="https://markcay.dev/">
+    <img height="50" src="https://img.shields.io/badge/Visit my portfolio-F2802A.svg?style=for-the-badge&logo=hotjar&logoColor=white" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://docs.google.com/forms/d/e/1FAIpQLSeS1cf9mU02uROnvBGuXm3yGBrZAO5B1TgCIE_-Esk2T8OlAg/viewform">
-    <img height="auto" width="100%" src="https://img.shields.io/badge/Hire me for a project-EA5D63.svg?style=for-the-badge&logo=dependabot&logoColor=white" />
-  </a>
-</p>
-
-
-<p align="center">
-  <a href="https://markcay.dev/">
-    <img height="auto" width="100%" src="https://img.shields.io/badge/Visit my portfolio-F2802A.svg?style=for-the-badge&logo=hotjar&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="2023-GOALS.md">
-    <img height="auto" width="100%" src="https://img.shields.io/badge/Check out my 2023 Goals-3461FF.svg?style=for-the-badge&logo=googlefit&logoColor=white" />
+    <img height="50" src="https://img.shields.io/badge/Hire me for a project-EA5D63.svg?style=for-the-badge&logo=dependabot&logoColor=white" />
   </a>
 </p>
 
@@ -50,7 +50,7 @@ It is my pleasure to help clients grow and promote their businesses online by pr
 <br /><br />
 ### MOBILE APP & CROSS PLATFORM (Web / Android / iOS)
 
-![Android](https://img.shields.io/badge/Android-white?style=for-the-badge&logo=android&logoColor=3DDC84)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
@@ -60,7 +60,7 @@ It is my pleasure to help clients grow and promote their businesses online by pr
 ### CLOUD DATABASES, APIS, AND SERVICES
 
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-white?style=for-the-badge&logo=Firebase&logoColor=FFA611)
+![Firebase](https://img.shields.io/badge/Firebase-FFA611?style=for-the-badge&logo=Firebase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 <br /><br />
@@ -91,8 +91,8 @@ It is my pleasure to help clients grow and promote their businesses online by pr
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-white.svg?style=for-the-badge&logo=npm&logoColor=CC3534)
-![Socket.io](https://img.shields.io/badge/Socket.io-white?style=for-the-badge&logo=socket.io&logoColor=010101)
+![NPM](https://img.shields.io/badge/NPM-CC3534.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 ---
