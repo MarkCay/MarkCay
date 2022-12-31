@@ -11,14 +11,20 @@ It is my pleasure to help clients grow and promote their businesses online by pr
 
 <p align="center">
   <a href="https://docs.google.com/forms/d/e/1FAIpQLSeS1cf9mU02uROnvBGuXm3yGBrZAO5B1TgCIE_-Esk2T8OlAg/viewform">
-    <img height="40" src="https://img.shields.io/badge/HIRE_ME_FOR_A_PROJECT-EA5D63.svg?style=for-the-badge&logo=dependabot&logoColor=white" />
+    <img height="auto" width="100%" src="https://img.shields.io/badge/Hire me for a project-EA5D63.svg?style=for-the-badge&logo=dependabot&logoColor=white" />
   </a>
 </p>
 
 
 <p align="center">
   <a href="https://markcay.dev/">
-    <img height="40" src="https://img.shields.io/badge/VISIT_MY_PORTFOLIO-F2802A.svg?style=for-the-badge&logo=hotjar&logoColor=white" />
+    <img height="auto" width="100%" src="https://img.shields.io/badge/Visit my portfolio-F2802A.svg?style=for-the-badge&logo=hotjar&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="2023 GOALS.md">
+    <img height="auto" width="100%" src="https://img.shields.io/badge/Check out my 2023 Goals-3461FF.svg?style=for-the-badge&logo=googlefit&logoColor=white" />
   </a>
 </p>
 
