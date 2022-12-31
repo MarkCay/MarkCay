@@ -1,6 +1,6 @@
 # 2023 GOALS (Practicing the Law of Attraction)
 
-Malapit na dumating ang 2023, and dahil gusto ko maging better na tao sa paparating na new year, I’m sharing with you my 2023 Goals to make myself accountable, and also to practice the **[Law of Attraction](https://www.verywellmind.com/understanding-and-using-the-law-of-attraction-3144808)** philosophy. Kung gusto nyo makisabay, walang problema. I’d be happy to see your 2023 Goals too by sharing them sa comment section.
+Malapit na dumating ang 2023, and dahil gusto ko maging better na tao sa paparating na new year, I’m sharing with you my 2023 Goals to make myself accountable, and also to practice the **[Law of Attraction](https://www.verywellmind.com/understanding-and-using-the-law-of-attraction-3144808)** philosophy. Kung gusto nyo makisabay, walang problema.
 
 Happy New Year agad sa inyong lahat!
 
