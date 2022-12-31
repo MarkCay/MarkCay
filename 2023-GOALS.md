@@ -7,11 +7,17 @@ Happy New Year agad sa inyong lahat!
 ---
 
 <img src="2023 Goals.png" />
+<br />
 <img src="Personal_ Daily & Weekly Goals.png" />
+<br />
 <img src="Health_ Daily & Weekly Goals.png" />
+<br />
 <img src="Work & Programming Career_ Daily & Weekly Goals.png" />
+<br />
 <img src="Finance_ Daily & Weekly Goals.png" />
+<br />
 <img src="My Goals for this Year.png" />
+<br />
 
 <!-- ## DAILY & WEEKLY GOALS
 
