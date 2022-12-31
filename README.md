@@ -1,7 +1,7 @@
 # Hey, Vsauce! Mark Cay here... 🧐 
 
 <p align="center">
-  <a href="https://markcay.github.io/MarkCay/2023-GOALS">
+  <a href="https://markcay.github.io/2023-GOALS">
     <img height="50" src="https://img.shields.io/badge/Check out my 2023 Goals-3461FF.svg?style=for-the-badge&logo=googlefit&logoColor=white" />
   </a>
 </p>
