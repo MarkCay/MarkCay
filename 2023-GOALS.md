@@ -6,7 +6,14 @@ Happy New Year agad sa inyong lahat!
 
 ---
 
-## DAILY & WEEKLY GOALS
+<img src="2023 Goals.png" />
+<img src="Personal_ Daily & Weekly Goals.png" />
+<img src="Health_ Daily & Weekly Goals.png" />
+<img src="Work & Programming Career_ Daily & Weekly Goals.png" />
+<img src="Finance_ Daily & Weekly Goals.png" />
+<img src="My Goals for this Year.png" />
+
+<!-- ## DAILY & WEEKLY GOALS
 
 ### Hobbies & Learning
 
@@ -40,3 +47,4 @@ Happy New Year agad sa inyong lahat!
 - [ ] Create a startup
 - [ ] Generate a passive income
 - [ ] Earn and save PHP 500,000.00 - PHP 1,000,000.00
+ -->
