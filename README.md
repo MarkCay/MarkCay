@@ -10,7 +10,7 @@
 
 <img align="right" src="https://yt3.ggpht.com/ytc/AMLnZu8QeR_gsP0RzdCIQyQlQTe58PlD4UKzOpIVd2QC6g=s900-c-k-c0x00ffffff-no-rj" width="120" />
 
-Hi! I'm a Freelance Mobile App/Web Developer from Palawan, Philippines with 2+ years of experience in the field.
+Hi! I'm a Freelance Mobile App/Web Developer from Palawan, Philippines witH years of experience in the field.
 
 It is my pleasure to help clients grow and promote their businesses online by providing them mobile apps and web systems solutions based on their needs.
 
