@@ -118,9 +118,10 @@ It is my pleasure to help clients grow and promote their businesses online by pr
 <p align="center">
 
 <img src="https://img.shields.io/github/followers/markcay?style=social" />
-<img src="https://img.shields.io/youtube/channel/views/UCyH15t-2SU6qvCB1xIYU4EA?style=social" />
-<img src="https://img.shields.io/youtube/channel/subscribers/UCyH15t-2SU6qvCB1xIYU4EA?style=social" />
+<!-- <img src="https://img.shields.io/youtube/channel/views/UCyH15t-2SU6qvCB1xIYU4EA?style=social" />
+<img src="https://img.shields.io/youtube/channel/subscribers/UCyH15t-2SU6qvCB1xIYU4EA?style=social" /> -->
 
+![GitHub Contribution Grid Snake](https://github.com/markcay/markcay/blob/output/github-contribution-grid-snake.svg)
 </p>
 
 ---
